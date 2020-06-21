@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2b5005;
+    background-color: #e4fa9f;
+    text-align: center;
+}
+
+.canvass {
+    border: #1e3904 5px solid;
+    width: 700px;
+    height: 400px;
+}
+
+.fileu {
+    margin-left: 10rem;
+    margin-right: 10rem;
+    color: burlywood;
+}
+
+
+
+h1 {
+    margin-bottom: 2rem;
+}
